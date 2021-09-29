@@ -9,4 +9,3 @@ joblib==1.0.1
 flask
 sklearn
 gunicorn
-joblib
